@@ -1,0 +1,34 @@
+<?php
+$page = "bbq";
+$title = "It's Troop 39 BBQ Time!! | Matthews, NC";
+include ("header.php");
+?>
+
+
+<!-- <h1>BBQ 2013 - October 4th &amp; 5th</h1>
+<h2>Online Pre-ordering is closed</h2>
+<p>Plates Are served Friday October 4th from 11am to 8pm.<br><br>
+
+Pick up for customers and scouts is Friday 11am to 8pm and Saturday 9am -12pm.<br><br>
+
+Thanks for Supporting Troop 39!</p>
+<br><br> -->
+<div style="text-align:left; padding:20px;"><h2 style="margin-left:0;">BBQ &amp; Stew Online Ordering (Credit/Debit)</h2>
+<p>Welcome to our NEW online ordering system for our BBQ fundraiser! Please take a moment to read the points below as they are important to us completeing your order.</p>
+<a href='https://mkt.com/matthews-troop-39-bbq-fundraiser' class='sq-embed-menu' data-menu-item-images='small' data-menu-accent-color='83b3b3' data-menu-template='column' data-menu-border='show' data-menu-item-descriptions='show' >Order Online</a>
+<script src="https://cdn.sq-api.com/market/embed.js" charset="utf-8"></script>
+
+<p><strong>&bull; PLEASE</strong> be sure to name a Scout if they sold it to you or you know them<br /><strong>&bull; Payment:</strong> Credit/Debit Cards via PayPal (if you have a PayPal account you may use that)<br /><strong><strong>&bull;</strong>&nbsp;All orders are final</strong> and no refunds will be given<br /><strong><strong>&bull;</strong>&nbsp;All orders are PICK UP ONLY</strong>, so please note the location and times below</p>
+<p><!--<strong>Monday's</strong>7:00pm-8:15pm (This is during our meeting)</p>
+<p>Troop 39 Eagles Nest <br /> We are right across from the intersection with Fullwood at <br>-->
+Matthews United Methodist Church<br />801 South Trade St.<br />Matthews, NC 28105</p>
+
+<p><strong>Friday Oct 7th 11am - 8pm</strong></p>
+<p><strong>Saturday Oct 8th 9am - 12pm</strong> (Bulk pickup - no plates)</p>
+</div>
+<!-- <script type="text/javascript" src="https://form.jotform.com/jsform/62644222949158"></script>
+<script type="text/javascript" src="http://form.jotform.us/jsform/22326907800147"></script>-->
+
+<?php
+include ("footer.php");
+?>
